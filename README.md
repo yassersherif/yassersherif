@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on odoo implementation<br>👯 I’m looking to collaborate <br>🤝 I’m looking for help with odoo projects<br>🌱 I’m currently learning odoo <br>💬 Ask me about any info.
 
 
 ## 🌐 Socials:
