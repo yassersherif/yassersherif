@@ -96,26 +96,24 @@ I work with Odoo modules, Python, SQL, QWeb reports, and database technologies t
 
 ## 📈 GitHub Statistics
 
-<!-- Replace YOUR_ACTUAL_GITHUB_USERNAME with the real GitHub username everywhere below. -->
-
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=yassersherif&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Yasser Sherif GitHub Statistics"
   />
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassersherif&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Yasser Sherif Most Used Languages"
   />
 </p>
 
 <p align="center">
   <img
     width="70%"
-    src="https://streak-stats.demolab.com?user=YOUR_ACTUAL_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=yassersherif&theme=tokyonight&hide_border=true"
+    alt="Yasser Sherif GitHub Contribution Streak"
   />
 </p>
 
